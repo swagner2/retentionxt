@@ -39,7 +39,13 @@
 					<button type="reset" class="search" id="search-btn"></button>
 					<ul id="results-container"></ul>
 				</form>
-				<a href="{{ header.button.link }}" class="themebtu">{{ header.button.text }}</a>
+				<a href="{{ header.button.link }}" 
+				   class="themebtu" 
+				   data-cal-link="{{ header.button.attributes.data-cal-link }}" 
+				   data-cal-namespace="{{ header.button.attributes.data-cal-namespace }}" 
+				   data-cal-config="{{ header.button.attributes.data-cal-config }}">
+				  {{ header.button.text }}
+				</a>
 			</div>
 			<div class="bar-menu">
 			<i class="fa-solid fa-bars"></i>
