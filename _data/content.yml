@@ -178,23 +178,23 @@ brands_two:
 
     - title: "Brand"
       alt: "brand"
-      image: "assets/img/brand-2.png"
+      image: "assets/img/surya-logo.png"
 
     - title: "Brand"
       alt: "brand"
-      image: "assets/img/brand-3.png"
+      image: "assets/img/littlehunter-logo.png"
 
     - title: "Brand"
       alt: "brand"
-      image: "assets/img/brand-4.png"
+      image: "assets/img/miltons-logo.png"
 
     - title: "Brand"
       alt: "brand"
-      image: "assets/img/brand-5.png"
+      image: "assets/img/truecitrus-logo.png"
 
     - title: "Brand"
       alt: "brand"
-      image: "assets/img/brand-6.png"
+      image: "assets/img/tumblerware-logo.png"
 
 ### Services [ services ]
 services:
@@ -388,23 +388,23 @@ clients:
       title: "Company"
       alt: "Company"
 
-    - image: "assets/img/brand-2.png"
+    - image: "assets/img/surya-logo.png"
       title: "Company"
       alt: "Company"
 
-    - image: "assets/img/brand-3.png"
+    - image: "assets/img/littlehunter-logo.png"
       title: "Company"
       alt: "Company"
 
-    - image: "assets/img/brand-4.png"
+    - image: "assets/img/miltons-logo.png"
       title: "Company"
       alt: "Company"
 
-    - image: "assets/img/brand-5.png"
+    - image: "assets/img/truecitrus-logo.png"
       title: "Company"
       alt: "Company"
 
-    - image: "assets/img/brand-6.png"
+    - image: "assets/img/tumblerware-logo.png"
       title: "Company"
       alt: "Company"
 
