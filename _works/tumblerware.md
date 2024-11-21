@@ -2,27 +2,27 @@
 layout: works-single
 
 # preview details
-title: Fashion Magazine
-category: Print
-category_slug: print
-image: assets/img/project-7.jpeg
-short: Quisque volutpat mattis eros.
+title: Tumblerware
+category: Klaviyo
+category_slug: Klaviyo 
+image: assets/img/tumblerware.png
+short: Tumblerware - BFCM generates $2.5M in sales over 14 days 
 
 # full details
-full_image: assets/img/project-7.jpeg
-preview_link: https://bslthemes.com
+full_image: assets/img/Tumblerware-screen.png
+preview_link: https://tumblerware.com
 info:
   - label: Project Description
-    value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
+    value: Black Friday Sales planning using Segmentation, Data and Day Parting to Sell Out $2.5M in Holiday Gift Bundles. 
 
   - label: Client
-    value: Envato
+    value: Tumblerware
 
   - label: Year
-    value: 2021
+    value: 2023
 
   - label: Website
-    value: bslthemes.com
+    value: tumblerware.com
 
 images:
   - label: "Aliquam tincidunt mauris eu risus."
