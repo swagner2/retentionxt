@@ -174,7 +174,7 @@ brands_two:
   items:
     - title: "Brand"
       alt: "brand"
-      image: "assets/img/mercedes.png"
+      image: "assets/img/mercedes-logo.png"
 
     - title: "Brand"
       alt: "brand"
@@ -384,7 +384,7 @@ clients:
   title: "See the clients we've delivered experiences for and how we did it."
   subtitle: "Pellentesque aliquet nibh nec urna."
   items:
-    - image: "assets/img/mercedes.png"
+    - image: "assets/img/mercedes-logo.png"
       title: "Company"
       alt: "Company"
 
