@@ -1,1 +1,5 @@
 media: assets
+
+posts: _posts
+
+cases: _works
