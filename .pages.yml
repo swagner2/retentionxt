@@ -1,2 +1,218 @@
 media: assets
 
+hero_one:
+  title: "<span>Unlock</span> The Full Potential Of Your Business."
+  description: "
+    Creative concepting and visual design
+  "
+  button: "More Services"
+  link: "/services/"
+  image: "assets/img/hero-img.jpg"
+
+### Hero Under [ hero-under ]
+hero_under:
+  items:
+    - title: "Research And Discovery"
+      subtitle: "Morbi interdum mollis sapien."
+      link: "/services/"
+      image: "assets/img/serv-u-1.svg"
+
+    - title: "Planning For The Future"
+      subtitle: "Phasellus lacinia, ullamcorper laoreet."
+      link: "/services/"
+      image: "assets/img/serv-u-2.svg"
+
+    - title: "Building Your Brand"
+      subtitle: "Pulvinar risus, vitae facilisis dolor."
+      link: "/services/"
+      image: "assets/img/serv-u-3.svg"
+
+### About Two [ about-two ]
+about_two:
+  image1: "assets/img/welcome-1.jpg"
+  image2: "assets/img/welcome-2.jpg"
+  title: "We're an Independent Design & Development Agency."
+  subtitle: "Dream. Design. Enjoy."
+  description: "Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel dapibusid, mattis velnisi."
+  items:
+    - title: "User Experience"
+      text: "Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar facilisis."
+
+    - title: "Digital Design"
+      text: "Sed ac risus. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis."
+
+  button: "More Services"
+  link: "/services/"
+
+### Ho it works [ how-it-works ]
+how_it_works:
+  subtitle: "How It Works?"
+  title: "We Are Strategic- Creative Digital Agency."
+  items:
+    - num: "01/"
+      title: "Submit Your Design Request"
+      text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna."
+    
+    - num: "02/"
+      title: "We Start Working"
+      text: "Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+    
+    - num: "03/"
+      title: "Get Your Projects Done!"
+      text: "In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra."
+
+### Projects Carousel [ projects-carousel ]
+projects_carousel:
+  numOfItems: 3
+  title: "Recently<br> Completed<span>Projects</span>"
+  subtitle: "We Help You Build An Online Brand"
+  button: "View More Works"
+  link: "/portfolio"
+
+### Testimonial One [ testimonial-one ]
+testimonial_one:
+  title: "What Our Clients Said"
+  subtitle: "Why Partner With Us?"
+  items:
+    - image: "assets/img/reaview-1.jpg"
+      text: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam."
+      name: "Kalem Patel"
+      role: "Manager of Terio"
+
+    - image: "assets/img/reaview-2.jpg"
+      text: "Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat."
+      name: "Bernard Castro"
+      role: "Owner of Love Digital"
+
+    - image: "assets/img/reaview-3.jpg"
+      text: "Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida."
+      name: "Lori Moses"
+      role: "Manager of Digitalagency"
+
+    - image: "assets/img/reaview-4.jpg"
+      text: "Praesent in sem quis dui consectetuer ornare. Pellentesque odio nisi, euismod in, pharetra."
+      name: "Kalem Patel"
+      role: "Manager of Terio"
+
+### Call to Action One [ cta-one ]
+cta_one:
+  title: "Let’s Start On Your Case <span>Together</span>"
+  subtitle: "Pellentesque aliquet nibh necurna."
+  video_poster: "assets/img/video.jpg"
+  youtube_video_id: "1La4QzGeaaQ"
+  form_title: "Kick Start Your Awesome Project Now!"
+  form_subtitle: "Get In Touch"
+  form_subscription: "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue."
+
+### Latest Blog Carousel [ blog-carousel ]
+blog_carousel:
+  title: "News and Thoughts"
+  subtitle: "our blog"
+  numOfItems: 6
+
+#################
+#   Index Two   #
+#################
+
+### Hero Slider [ hero-slider ]
+hero_slider:
+  slides:
+    - image: "assets/img/hero-img-1.jpg"
+      title: "Digital Agency With A <span>Passion</span> For Marketing."
+      subtitle: "For Small-To-Medium Sized Businesses"
+      button: "More Services"
+      link: "/services/"
+
+    - image: "assets/img/hero-img-2.jpg"
+      title: "Enabling a Better Future<span>Together</span>"
+      subtitle: "How we build the business models and brands of tomorrow."
+      button: "More Services"
+      link: "/services/"
+
+### Marketing One [ marketing-one ]
+marketing_one:
+  image: "assets/img/graph-1.png"
+  title: "Expert in Leveraging Available Budgets to Find Peak Performance."
+  subtitle: "What We Do"
+  intro: "Need help with your Digital Marketing?<br> Let us do what we do best so you can focus on running your business"
+  description: "Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh."
+  button: "Discover More"
+  link: "/about/"
+
+### Marketing Two [ marketing-two ]
+marketing_two:
+  image: "assets/img/graph-2.png"
+  title: "Sales Strategy and Conversion Optimization"
+  subtitle: "Designed to Grow Your Business"
+  description: "Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh."
+  numbers:
+    - value: "600+"
+      label: "Successful websites launched by our team since 2011"
+      separator: true
+
+    - value: "200%"
+      label: "Most of our SEO campaigns double their traffic within 6 months"
+      separator: false
+
+### Brands [ brands-two ]
+brands_two:
+  title: "Brands We Work With."
+  items:
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/mercedes-logo.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/surya-logo.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/littlehunter-logo.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/miltons-logo.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/truecitrus-logo.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/tumblerware-logo.png"
+
+### Services [ services ]
+services:
+  title: "We’ll Show You How It’s <span>Done</span>"
+  subtitle: "We are an always curious, strategic-creative digital agency"
+  items:
+    - image: "assets/img/sercive-1.jpg"
+      title: "Search Engine Optimization"
+      description: "Nullam malesuada erat ut turpis. Donec nec justo eget felis facilisis fermentum."
+      button: "Read More"
+      link: "/services/"
+
+    - image: "assets/img/sercive-2.jpg"
+      title: "Awesome<br> Creative Design"
+      description: "Quisque volutpat mattis eros.Nullam malesuada erat ut turpis. Suspendisse urnanibh."
+      button: "Read More"
+      link: "/services/"
+
+    - image: "assets/img/sercive-3.jpg"
+      title: "Digital<br> Production"
+      description: "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+      button: "Read More"
+      link: "/services/"
+
+    - image: "assets/img/sercive-4.jpg"
+      title: "Social Media<br> Marketing"
+      description: "Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede."
+      button: "Read More"
+      link: "/services/"
+      
+### Numbers [ how-it-works ]
+numbers:
+  items:
+    - num: "01/"
+      title: "Transparent"
