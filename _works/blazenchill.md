@@ -2,11 +2,11 @@
 layout: works-single
 
 # preview details
-title: Creative Agency Portfolio
-category: Design
+title: Blaze n Chill
+category: Klaviyo
 category_slug: design
 image: assets/img/project-8.jpeg
-short: Creativity is to discover a question
+short: Blaze n Chill - first party data for segementation success. 
 
 # full details
 full_image: assets/img/project-8.jpeg
@@ -16,13 +16,13 @@ info:
     value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
 
   - label: Client
-    value: Envato
+    value: Blaze n Chill 
 
   - label: Year
-    value: 2021
+    value: 2024
 
   - label: Website
-    value: bslthemes.com
+    value: blazenchill.co
 
 images:
   - label: "Aliquam tincidunt mauris eu risus."
