@@ -1,13 +1,14 @@
 media: assets
+
 Content: 
     name: posts 
     label: Posts 
-    type: Collection 
+    type: collection 
     path: _posts 
     fields: 
         - {name: title:=, label: Title, type: string} 
         - {name: layout, type: string, hidden: true, default: post}
         - {name: date, label: Date, type: date }
-        - {name: image, image: assets/img/blog-3.jpeg }
+        - {name: image, label: image, type: image }
         - {name: tags, type: string, label: tags, type: string} 
         - {name: category, type: string label: category, type: string}
