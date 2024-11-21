@@ -15,7 +15,20 @@ header:
     title: "Retention XT"
   button:
     text: "Book A Call"
-    link: "/contact/"
+    link: "#"
+    attributes:
+      data-cal-link: "stevenwagner/retentionxt"
+      data-cal-namespace: "retentionxt"
+      data-cal-config: '{"layout":"month_view"}'
+
+<!-- Assuming this is the part of your template where the button is rendered -->
+<a href="{{ site.header.button.link }}" 
+   class="btn" 
+   data-cal-link="{{ site.header.button.attributes.data-cal-link }}" 
+   data-cal-namespace="{{ site.header.button.attributes.data-cal-namespace }}" 
+   data-cal-config="{{ site.header.button.attributes.data-cal-config }}">
+  {{ site.header.button.text }}
+</a>
 
 ### Social
 social:
