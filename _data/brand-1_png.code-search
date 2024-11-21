@@ -1,0 +1,13 @@
+# Query: brand-1.png
+# ContextLines: 1
+
+2 results - 1 file
+
+_data/content.yml:
+  176        alt: "brand"
+  177:       image: "assets/img/brand-1.png"
+  178  
+
+  386    items:
+  387:     - image: "assets/img/brand-1.png"
+  388        title: "Company"
