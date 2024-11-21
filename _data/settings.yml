@@ -68,11 +68,17 @@ footer:
 
   subscribe:
     title: "Subscribe"
-    text: "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam."
+    text: "Sign up to get a weekly DTC Email breakdown."
 
-  mailchimp:
-    url: "https://bslthemes.us21.list-manage.com/subscribe/post?u=e57127f785a6d278d2535bd53&amp;id=dd56743ee5&amp;f_id=000dfee1f0" #YOUR MAILCHIMP EMBED FORM URL [form action=""]
-    key: "b_e57127f785a6d278d2535bd53_dd56743ee5" #YOUR MAILCHIMP EMBED FORM KEY VALUE [input hidden name=""]
+  # Mailchimp settings (remove or comment out these lines)
+  # mailchimp:
+  #   url: "https://bslthemes.us21.list-manage.com/subscribe/post?u=e57127f785a6d278d2535bd53&amp;id=dd56743ee5&amp;f_id=000dfee1f0" #YOUR MAILCHIMP EMBED FORM URL [form action=""]
+  #   key: "b_e57127f785a6d278d2535bd53_dd56743ee5" #YOUR MAILCHIMP EMBED FORM KEY VALUE [input hidden name=""]
+
+  # Klaviyo settings (add these lines)
+  klaviyo:
+    url: "https://manage.kmail-lists.com/subscriptions/subscribe?a=YOUR_ACCOUNT_ID&g=YOUR_LIST_ID" #YOUR KLAVIYO EMBED FORM URL
+    key: "pk_057803b4a5bdf2a44d15755883444c115c" #YOUR KLAVIYO EMBED FORM KEY VALUE [input hidden name=""]
 
 ### Portfolio Filters Settings
 portfolio:
