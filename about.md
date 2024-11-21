@@ -7,7 +7,7 @@ layout: builder
 
 # Intro Begin
 intro: true
-intro_title: "We Love<br>What We Do"
+intro_title: "Retention XT is a Klaviyo Consultancy for Store Owners that Need Strategy"
 intro_subtitle: "About Us"
 # Intro End
 
