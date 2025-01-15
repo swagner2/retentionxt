@@ -25,8 +25,8 @@ info:
     value: eatmiltons.com/
 
 images:
-  - label: "Aliquam tincidunt mauris eu risus."
-    image: "assets/img/project-1.jpeg"
+  - label: "Empowering Customers to Order their Own Pizza Party in a Box with Klaviyo."
+    image: "assets/img/miltons-party-form.png"
 
   - label: "Nunc dignissim risus id metus."
     image: "assets/img/project-5.jpeg"
