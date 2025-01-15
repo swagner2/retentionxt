@@ -28,7 +28,7 @@ images:
   - label: "Using A/B Testing to Measure Customer Acqusition Costs."
     image: "assets/img/LH-pop-up.png"
 
-  - label: "Nunc dignissim risus id metus."
+  - label: "Using Personalization to Identify & Nurture Highest Value Leads."
     image: "assets/img/project-5.jpeg"
 
 description2:
