@@ -10,7 +10,7 @@ short: Lorem ipsum dolor sitamet, consectetuer donecodio.
 
 # full details
 full_image: assets/img/truecitrus-home.png
-preview_link: https://bslthemes.com
+preview_link: truelemon.com
 info:
   - label: Project Description
     value: Scaling Growth True Citrus through Retention
