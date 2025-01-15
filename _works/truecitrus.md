@@ -2,27 +2,27 @@
 layout: works-single
 
 # preview details
-title: Photo Album
-category: Branding
+title: True Citrus
+category: Klaviyo+Recharge+Shopify Plus
 category_slug: branding
-image: assets/img/project-4.jpg
+image: assets/img/truecitrus-home.png
 short: Lorem ipsum dolor sitamet, consectetuer donecodio.
 
 # full details
-full_image: assets/img/project-4.jpg
+full_image: assets/img/truecitrus-home.png
 preview_link: https://bslthemes.com
 info:
   - label: Project Description
-    value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
+    value: Scaling Growth True Citrus through Retention
 
   - label: Client
-    value: Envato
+    value: True Citrus
 
   - label: Year
-    value: 2021
+    value: 2024
 
   - label: Website
-    value: bslthemes.com
+    value: truelemon.com
 
 images:
   - label: "Aliquam tincidunt mauris eu risus."
