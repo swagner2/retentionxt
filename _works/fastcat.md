@@ -2,15 +2,15 @@
 layout: works-single
 
 # preview details
-title: Elegant Tropical Wedding Suite
-category: Print
-category_slug: print
-image: assets/img/project-3.jpg
-short: Aliquam porttitor mauris sit amet orci.
+title: Fast Cat Coaching
+category: Klaviyo+Retention 
+category_slug: retention
+image: assets/img/fastcat home.png
+short: Helping Fast recover churn and revneue with Klaviyo
 
 # full details
-full_image: assets/img/project-3.jpg
-preview_link: https://bslthemes.com
+full_image: assets/img/fastcat home.png
+preview_link: https://fascatcoaching.com/app
 info:
   - label: Project Description
     value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
@@ -22,11 +22,11 @@ info:
     value: 2021
 
   - label: Website
-    value: bslthemes.com
+    value: fascatcoaching.com
 
 images:
-  - label: "Aliquam tincidunt mauris eu risus."
-    image: "assets/img/project-1.jpeg"
+  - label: "Recovering Revenue with Klaviyo Optimization."
+    image: "assets/img/fastcat-app.png"
 
   - label: "Nunc dignissim risus id metus."
     image: "assets/img/project-5.jpeg"
