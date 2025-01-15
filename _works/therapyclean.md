@@ -13,16 +13,16 @@ full_image: assets/img/therapy-clean-1.png
 preview_link: https://therapyclean.com/
 info:
   - label: Project Description
-    value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
+    value: Helping Founders match their ideal Customer Journey into Klaviyo and ReCharge.
 
   - label: Client
-    value: Envato
+    value: Therapy Clean
 
   - label: Year
-    value: 2021
+    value: 2024
 
   - label: Website
-    value: bslthemes.com
+    value: https://therapyclean.com/
 
 images:
   - label: "Email Offers Increase Sales and Retention."
@@ -37,6 +37,10 @@ description2:
 TherapyClean was using OmniSend for email marketing but faced limitations in scaling and aligning their customer journeys with the brand’s vision. They needed a platform that could handle more advanced automations, better convey their brand differences, and effectively support their subscription-based sales model.</p>"
 
 ---
+
+About TherapyClean:
+TherapyClean is a brand dedicated to offering high-quality cleaning products with a unique value proposition that sets them apart in the market. As their business grew, TherapyClean sought to refine their email marketing strategy and scale their subscription sales while maintaining their distinct brand voice.
+
 
 Challenges and Pain Points
 	1.	Platform Limitations:
