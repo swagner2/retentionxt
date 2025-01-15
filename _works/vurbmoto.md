@@ -13,7 +13,7 @@ full_image: assets/img/vurb-moto-frontpage.png
 preview_link: https://shopvurb.com/
 info:
   - label: Project Description
-    value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
+    value: Vurbmoto - empowering ecommerce for Motocross Lifestyle Content Creators into Contest Driven E-Commerce.
 
   - label: Client
     value: Vurb Moto
