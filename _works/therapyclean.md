@@ -25,10 +25,10 @@ info:
     value: bslthemes.com
 
 images:
-  - label: "Aliquam tincidunt mauris eu risus."
-    image: "assets/img/project-1.jpeg"
+  - label: "Email Offers Increase Sales and Retention."
+    image: "assets/img/therapy-clean-popup.png"
 
-  - label: "Nunc dignissim risus id metus."
+  - label: "Matching Founders Customer Journey to Klaviyo ."
     image: "assets/img/project-5.jpeg"
 
 description2:
