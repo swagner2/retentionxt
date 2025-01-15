@@ -5,11 +5,11 @@ layout: works-single
 title: Tumblerware
 category: Klaviyo
 category_slug: Klaviyo 
-image: assets/img/tumblerware.png
+image: assets/img/tumblerware-home.png
 short: Tumblerware - BFCM generates $2.5M in sales over 14 days 
 
 # full details
-full_image: assets/img/Tumblerware-screen.png
+full_image: assets/img/tumblerware-home.png
 preview_link: https://tumblerware.com
 info:
   - label: Project Description
@@ -25,8 +25,8 @@ info:
     value: tumblerware.com
 
 images:
-  - label: "Aliquam tincidunt mauris eu risus."
-    image: "assets/img/project-1.jpeg"
+  - label: "Growing Black Friday - Holiday Sales by $2.5M in 14 days."
+    image: "assets/img/Tumblerware-BFCM.png"
 
   - label: "Nunc dignissim risus id metus."
     image: "assets/img/project-5.jpeg"

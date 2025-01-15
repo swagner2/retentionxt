@@ -2,7 +2,7 @@
 layout: works-single
 
 # preview details
-title: Miltons
+title: Miltons Craft Bakers
 category: Klaviyo+Custom Automations
 category_slug: design
 image: assets/img/Miltons-Homepage.png
