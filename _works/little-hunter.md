@@ -2,43 +2,82 @@
 layout: works-single
 
 # preview details
-title: Trifold Restaurant Menu
-category: Design
+title: Transforming LittleHunter’s Revenue and Growth with Klaviyo and ReCharge
+category: Kaviyo+ReCharge+Shopify
 category_slug: design
-image: assets/img/project-6.jpeg
-short: Nullam malesuada erat ut turpis. 
+image: assets/img/little-hunter.png
+short: Scaling a DTC startup from $850 to $220,000 per month in 5 month
 
 # full details
-full_image: assets/img/project-6.jpeg
-preview_link: https://bslthemes.com
+full_image: assets/img/Littlehunter-screen.png
+preview_link: https://www.littlehunter.com/
 info:
   - label: Project Description
-    value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
+    value: Scaling a DTC startup from $850 to $220,000 per month in 5 months.
 
   - label: Client
-    value: Envato
+    value: Little Hunter 
 
   - label: Year
-    value: 2021
+    value: 2023
 
   - label: Website
-    value: bslthemes.com
+    value: littlehunter.com
 
 images:
-  - label: "Aliquam tincidunt mauris eu risus."
-    image: "assets/img/project-1.jpeg"
+  - label: "Using A/B Testing to Measure Customer Acqusition Costs."
+    image: "assets/img/LH-pop-up.png"
 
   - label: "Nunc dignissim risus id metus."
     image: "assets/img/project-5.jpeg"
 
 description2:
   enable: true
-  text: "<p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.</p>"
+  text: "<p>Takeaways and Lessons Learned
+	•	A structured approach to workflow and campaign management drives efficiency and results.
+	•	Leveraging platforms like Klaviyo and ReCharge for automation can significantly boost revenue in subscription-driven businesses.
+	•	Custom analytics and tracking provide the insights needed to refine strategies and compete effectively..</p>"
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+About LittleHunter:
+LittleHunter is a pet food brand competing in a crowded market against established players. With a focus on quality and care for pets, they aimed to scale their business rapidly but faced significant challenges with their email marketing and automation systems.
 
-Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Curabitur ullamcorper ultricies nisi. Nam eget dui.
+The Challenge:
+When LittleHunter engaged [Your Name], they were generating just $850/month in revenue and had a few broken email flows. The brand lacked a cohesive strategy, effective automation, and a designer capable of producing at the volume required. LittleHunter needed a complete overhaul of their marketing infrastructure to compete effectively and scale.
 
-Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.
+Challenges and Pain Points
+	1.	Inefficient Email Marketing:
+	•	Existing email flows were broken and underperforming.
+	•	No clear strategy or structure for leveraging email marketing automation.
+	2.	Production Issues:
+	•	An overseas designer was unable to meet the required production volume.
+	3.	Limited Analytics and Tracking:
+	•	Lack of visibility into ad performance and conversion data.
+	•	No mechanism to track offers or measure competitive effectiveness.
+	4.	Low Revenue and Growth Potential:
+	•	A starting revenue of $850/month highlighted the need for immediate action to drive sales and growth.
+
+Solutions Implemented
+
+1. Workflow and Project Management:
+	•	Introduced Trello to manage production and streamline communication across the team.
+	•	Developed a campaign calendar in Google Docs to provide structure and visibility for marketing initiatives.
+
+2. Advanced Analytics and Insights:
+	•	Built analytics dashboards using Google Sheets to track performance across campaigns.
+	•	Implemented custom configurations for tracking meta ad performance and offer conversions, enabling LittleHunter to measure results against competitors.
+
+3. Comprehensive Email Strategy and Design:
+	•	Created a cohesive email marketing strategy tailored to LittleHunter’s goals.
+	•	Designed and produced over 44 custom emails in just 2.5 months using Figma, ensuring a polished and consistent brand aesthetic.
+	•	Included automations for customer journeys, such as welcome flows, abandoned cart reminders, and post-purchase follow-ups.
+
+4. Implementation with Klaviyo and ReCharge:
+	•	Set up and optimized email flows within Klaviyo to engage and retain customers effectively.
+	•	Integrated ReCharge to streamline subscription sales and create recurring revenue opportunities.
+
+  Client Testimonial
+
+“[Your Name] completely turned things around for us. In just a few months, we went from scattered and ineffective marketing to a streamlined, high-performing operation. Their ability to strategize, execute, and deliver results was exactly what we needed to grow and secure the funding to take our business to the next level.”
+— [Client Name or Role], LittleHunter
