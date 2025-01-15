@@ -49,8 +49,11 @@ At motocross events, they wanted to capture participant and attendee data effort
 As a new e-commerce player, Vurbmoto required a scalable platform to manage sales and customer data while maintaining their focus on community-driven activities.
 
 
-“Working with Steven was a game changer for us. He didn’t just set us up with Klaviyo — he helped us reimagine how we engage with our audience. From events to contests to loyalty programs, every piece now works together seamlessly. We’ve grown our business and strengthened our community at the same time.”
-— Brent Stallo, Vurbmoto
+— 
+
+> "“Working with Steven was a game changer for us. He didn’t just set us up with Klaviyo — he helped us reimagine how we engage with our audience. From events to contests to loyalty programs, every piece now works together seamlessly. We’ve grown our business and strengthened our community at the same time."
+> <cite>-- Brent Stallo, Vurbmoto</cite>
+
 
 
 Solutions Implemented
