@@ -22,7 +22,7 @@ info:
     value: 2024
 
   - label: Website
-    value: https://therapyclean.com/
+    value: therapyclean.com
 
 images:
   - label: "Email Offers Increase Sales and Retention."
