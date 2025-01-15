@@ -3,10 +3,10 @@ layout: works-single
 
 # preview details
 title: Miltons
-category: Design
+category: Klaviyo+Custom Automations
 category_slug: design
 image: assets/img/Miltons-Homepage.png
-short: Nullam malesuada erat ut turpis. 
+short: Helping Milton's fulfill customer dreams with Klaviyo. 
 
 # full details
 full_image: assets/img/Miltons-Homepage.png
