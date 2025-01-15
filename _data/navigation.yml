@@ -37,7 +37,7 @@ main:
   # Success Stories
   - title: "Success Stories"
     url: "/works/"
-    parent: 1
+    parent: 0
     childs:
         - title: "Case Stiudies"
           url: "/works-grid/"
