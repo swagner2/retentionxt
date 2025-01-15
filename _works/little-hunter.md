@@ -9,7 +9,7 @@ image: assets/img/little-hunter.png
 short: Scaling a DTC startup from $850 to $220,000 per month in 5 month
 
 # full details
-full_image: assets/img/Littlehunter-screen.png
+full_image: assets/img/little-hunter.png
 preview_link: https://www.littlehunter.com/
 info:
   - label: Project Description
@@ -45,6 +45,9 @@ LittleHunter is a pet food brand competing in a crowded market against establish
 
 The Challenge:
 When LittleHunter engaged [Your Name], they were generating just $850/month in revenue and had a few broken email flows. The brand lacked a cohesive strategy, effective automation, and a designer capable of producing at the volume required. LittleHunter needed a complete overhaul of their marketing infrastructure to compete effectively and scale.
+
+> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+> <cite>-- Benjamin Franklin</cite>
 
 Challenges and Pain Points
 	1.	Inefficient Email Marketing:
