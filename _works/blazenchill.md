@@ -9,7 +9,7 @@ image: assets/img/blaze-chill-home.png
 short: Blaze n Chill - first party data for segementation success. 
 
 # full details
-full_image: assets/img/project-8.jpeg
+full_image: assets/img/blaze-chill-home.png
 preview_link: https://blazenchill.co/
 info:
   - label: Project Description

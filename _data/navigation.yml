@@ -9,7 +9,7 @@ main:
   # Home
   - title: "Home"
     url: "/"
-    parent: 1
+    parent: 0
     childs:
         - title: "Home One"
           url: "/"
@@ -67,7 +67,7 @@ main:
 
  # How we Help
   - title: "About"
-    url: "/how/"
+    url: "/about/"
     parent: 1
     childs:
        - title: "About"
