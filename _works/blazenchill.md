@@ -10,10 +10,10 @@ short: Blaze n Chill - first party data for segementation success.
 
 # full details
 full_image: assets/img/project-8.jpeg
-preview_link: https://bslthemes.com
+preview_link: https://blazenchill.co/
 info:
   - label: Project Description
-    value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
+    value: Using Klaviyo Forms to Personalize Customer Journeys for Increased Sales.
 
   - label: Client
     value: Blaze n Chill 
