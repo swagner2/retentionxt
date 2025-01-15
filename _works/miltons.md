@@ -2,27 +2,27 @@
 layout: works-single
 
 # preview details
-title: Lonest Photography
+title: Miltons
 category: Design
 category_slug: design
-image: assets/img/project-9.jpeg
+image: assets/img/Miltons-Homepage.png
 short: Nullam malesuada erat ut turpis. 
 
 # full details
-full_image: assets/img/project-9.jpeg
-preview_link: https://bslthemes.com
+full_image: assets/img/Miltons-Homepage.png
+preview_link: https://eatmiltons.com/
 info:
   - label: Project Description
     value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
 
   - label: Client
-    value: Envato
+    value: Miltons Craft Bakers
 
   - label: Year
-    value: 2021
+    value: 2023
 
   - label: Website
-    value: bslthemes.com
+    value: eatmiltons.com/
 
 images:
   - label: "Aliquam tincidunt mauris eu risus."
