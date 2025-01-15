@@ -16,10 +16,10 @@ info:
     value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
 
   - label: Client
-    value: Envato
+    value: Fast Cat Coaching, Optimize App
 
   - label: Year
-    value: 2021
+    value: 2024
 
   - label: Website
     value: fascatcoaching.com
