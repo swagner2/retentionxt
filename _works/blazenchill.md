@@ -5,7 +5,7 @@ layout: works-single
 title: Blaze n Chill
 category: Klaviyo
 category_slug: design
-image: assets/img/project-8.jpeg
+image: assets/img/blaze-chill-home.png
 short: Blaze n Chill - first party data for segementation success. 
 
 # full details
@@ -25,11 +25,11 @@ info:
     value: blazenchill.co
 
 images:
-  - label: "Aliquam tincidunt mauris eu risus."
-    image: "assets/img/project-1.jpeg"
+  - label: "Personalization using Quiz to customize customer journey."
+    image: "assets/img/blaze-chill-quiz.png"
 
-  - label: "Nunc dignissim risus id metus."
-    image: "assets/img/project-5.jpeg"
+  - label: "Increasing website conversions from email offers."
+    image: "assets/img/blaze-nchill popup.png"
 
 description2:
   enable: true
