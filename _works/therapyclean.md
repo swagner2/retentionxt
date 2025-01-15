@@ -2,15 +2,15 @@
 layout: works-single
 
 # preview details
-title: Boarding Pass Wedding Invitation
-category: Branding
-category_slug: branding
-image: assets/img/project-2.jpeg
-short: Nullam malesuada erat ut turpis.
+title: Therapy Clean
+category: Klaviyo+Shopify+ReCharge
+category_slug: klaviyo
+image: assets/img/therapy-clean-1.png
+short: Therapy Clean migrates from Omnisend to KLaviyo.
 
 # full details
-full_image: assets/img/project-2.jpeg
-preview_link: https://bslthemes.com
+full_image: assets/img/therapy-clean-1.png
+preview_link: https://therapyclean.com/
 info:
   - label: Project Description
     value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
