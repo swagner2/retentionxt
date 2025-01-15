@@ -51,15 +51,15 @@ When LittleHunter engaged [Your Name], they were generating just $850/month in r
 
 Challenges and Pain Points
 	1.	Inefficient Email Marketing:
-	•	Existing email flows were broken and underperforming.
-	•	No clear strategy or structure for leveraging email marketing automation.
+	-Existing email flows were broken and underperforming.
+	-No clear strategy or structure for leveraging email marketing automation.
 	2.	Production Issues:
-	•	An overseas designer was unable to meet the required production volume.
+	-An overseas designer was unable to meet the required production volume.
 	3.	Limited Analytics and Tracking:
-	•	Lack of visibility into ad performance and conversion data.
-	•	No mechanism to track offers or measure competitive effectiveness.
+	-Lack of visibility into ad performance and conversion data.
+	-No mechanism to track offers or measure competitive effectiveness.
 	4.	Low Revenue and Growth Potential:
-	•	A starting revenue of $850/month highlighted the need for immediate action to drive sales and growth.
+	-A starting revenue of $850/month highlighted the need for immediate action to drive sales and growth.
 
 Solutions Implemented
 
