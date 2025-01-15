@@ -14,38 +14,32 @@ main:
         - title: "Home One"
           url: "/"
 
-        - title: "Home Two"
-          url: "/index-2/"
+        #- title: "Home Two"
+          # url: "/index-2/"
 
-        - title: "Home Three"
-          url: "/index-3/"
+        #- title: "Home Three"
+         # url: "/index-3/"
 
-  # Pages
-  - title: "Pages"
-    url: "/about/"
+  # How we Help
+  - title: "How We Help Brands Retain More Customers"
+    url: "/how/"
     parent: 1
     childs:
-        - title: "About"
-          url: "/about/"
-
-        - title: "Team"
-          url: "/team/"
-
         - title: "Services"
           url: "/services/"
 
         - title: "Pricing"
           url: "/pricing/"
 
-        - title: "404"
+        #- title: "404"
           url: "/404/"
 
-  # Portfolio
-  - title: "Portfolio"
+  # Success Stories
+  - title: "Success Stories"
     url: "/works/"
     parent: 1
     childs:
-        - title: "Portfolio Grid"
+        - title: "Case Stiudies"
           url: "/works-grid/"
 
         #- title: "Portfolio Masonry"
@@ -70,6 +64,17 @@ main:
 
         # - title: "Blog Single"
           # url: "/documentation/2021/07/13/designer-conference-at-florida-2020/"
+
+ # How we Help
+  - title: "About"
+    url: "/how/"
+    parent: 1
+    childs:
+       - title: "About"
+          url: "/about/"
+
+       - title: "Team"
+          url: "/team/"
 
   # Contact
   - title: "Contact"
