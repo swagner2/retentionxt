@@ -2,7 +2,7 @@
 layout: works-single
 
 # preview details
-title: Minimalist Flyer Design
+title: Hear.com
 category: Design
 category_slug: design
 image: assets/img/project-5.jpeg
@@ -19,7 +19,7 @@ info:
     value: Envato
 
   - label: Year
-    value: 2021
+    value: 2024
 
   - label: Website
     value: bslthemes.com

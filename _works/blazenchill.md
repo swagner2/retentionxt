@@ -41,4 +41,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Curabitur ullamcorper ultricies nisi. Nam eget dui.
 
+> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+> <cite>-- Benjamin Franklin</cite>
+
+
 Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.

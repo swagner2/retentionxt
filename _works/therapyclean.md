@@ -53,6 +53,11 @@ TherapyClean struggled to differentiate themselves through email campaigns, whic
 The business required a go-to-market strategy with automated workflows to support and grow their subscription offerings.
 
 
+> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+> <cite>-- Benjamin Franklin</cite>
+
+
+
 Solutions Implemented
 
 1. Migration to Klaviyo:

@@ -1025,7 +1025,7 @@ contact_form_info:
   subtitle: "Start Your Project With Us."
   info:
     - label: "Address :"
-      value: "418 Orange Street<br> Portsmouth, VA 23703"
+      value: " Third Floor, 101 N Main St #302<br> Greenville, SC USA 29601"
       type: "text"
 
     - label: "Phone :"
@@ -1034,9 +1034,9 @@ contact_form_info:
       link: "tel:0987123456678"
     
     - label: "Email :"
-      value: "contact@terio.com"
+      value: "web@retentionxt.com"
       type: "link"
-      link: "mailto:contact@terio.com"
+      link: "mailto:contactretentionxt.com"
 
     - label: "Follow us :"
       value: ""
@@ -1062,12 +1062,11 @@ contact_form_info:
 map:
   enable: true
   map_iframe: "
-  <iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387190.27988214366!2d-74.25986540376853!3d40.69767006922205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2s!4v1672222515624!5m2!1sen!2s' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>
-  "
+iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5542.216632405928!2d-82.4025230227312!3d34.85192897286632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885831ce1a2c3d2d%3A0x8f49a994f9f6d0a8!2s101%20N%20Main%20St%20%23302%2C%20Greenville%2C%20SC%2029601!5e1!3m2!1sen!2sus!4v1736969146824!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  "
 
 ### Offices [ offices ]
 offices:
-  enable: true
+  enable: false
   title: "Offices"
   subtitle: "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis."
   items:
@@ -1078,13 +1077,13 @@ offices:
       link: "https://www.google.com/maps?q=92+Greenwich+St,+New+York,+NY+10006,+United+States&rlz=1C5CHFA_enUA981UA983&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjYxbOsvLP9AhUok_0HHTWvAasQ_AUoAXoECAEQAw"
     
     - image: "assets/img/view-map-2.jpg"
-      title: "Roma"
+      title: "Chicago"
       text: "Via Carlo Alberto, 26a, 00185 Roma RM,<br> Italy"
       button: "view map"
       link: "https://www.google.com/maps?q=Via+Carlo+Alberto,+26a,+00185+Roma+RM,+Italy&rlz=1C5CHFA_enUA981UA983&sxsrf=AJOqlzVW88C7U_cBDO0X_3gcHox7j7_l6Q:1677424266642&uact=5&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQ6CggAEEcQ1gQQsANKBAhBGABQgARYgARgzwVoA3AAeACAAb0BiAG9AZIBAzAuMZgBAKABAqABAcgBCMABAQ&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjb49HXvLP9AhUC7rsIHfLvDhIQ_AUoAXoECAEQAw"
 
     - image: "assets/img/view-map-3.jpg"
-      title: "Barcelona"
+      title: "Los Angeles"
       text: "d'Aragó, 284, 08009 Barcelona,<br> Spain"
       button: "view map"
       link: "https://www.google.com/maps?q=d%27Arag%C3%B3,+284,+08009+Barcelona,+Spain&rlz=1C5CHFA_enUA981UA983&sxsrf=AJOqlzVafvTEXFDams8MK6ZrRCRoYDnwlg:1677424357317&uact=5&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICAAQogQQsANKBAhBGAFQ4QNY4QNg1QRoA3AAeACAAQCIAQCSAQCYAQCgAQKgAQHIAQHAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiw8oiJvbP9AhUqgP0HHVIiCGAQ_AUoAXoECAEQAw"
