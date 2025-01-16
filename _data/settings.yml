@@ -12,7 +12,7 @@ header:
   logo:
     image: "assets/img/logo.png"
     alt: "logo"
-    link: "/"
+    link: "retentionxt.com"
     title: "Retention XT"
   button:
     text: "Book A Call"

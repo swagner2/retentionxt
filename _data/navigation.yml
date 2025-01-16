@@ -21,14 +21,14 @@ main:
          # url: "/index-3/"
 
   # How we Help
-  - title: "How We Help Brands Retain More Customers"
-    url: "/how/"
-    parent: 1
+  - title: "How We Help"
+    url: "/services/"
+    parent: 0
     childs:
-        - title: "Services"
+       # - title: "Services"
           url: "/services/"
 
-        - title: "Pricing"
+        # - title: "Pricing"
           url: "/pricing/"
 
         #- title: "404"
