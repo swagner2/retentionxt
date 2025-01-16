@@ -75,11 +75,6 @@ footer:
     title: "Subscribe"
     text: "Sign up to get a weekly DTC Email breakdown."
 
-  # Mailchimp settings (remove or comment out these lines)
-  # mailchimp:
-  #   url: "https://bslthemes.us21.list-manage.com/subscribe/post?u=e57127f785a6d278d2535bd53&amp;id=dd56743ee5&amp;f_id=000dfee1f0" #YOUR MAILCHIMP EMBED FORM URL [form action=""]
-  #   key: "b_e57127f785a6d278d2535bd53_dd56743ee5" #YOUR MAILCHIMP EMBED FORM KEY VALUE [input hidden name=""]
-
   # Klaviyo settings (add these lines)
   klaviyo:
     url: "https://manage.kmail-lists.com/subscriptions/subscribe?a=Mzfpkb&g=XZdA7M" #YOUR KLAVIYO EMBED FORM URL
