@@ -15,12 +15,13 @@
 
 ### Hero One [ hero-one ]
 hero_one:
-  title: "<span>DTC Brands:</span> Are You Acquiring Customers… Only to Watch Them Slip Away?"
+  title: "<span>Unlock</span> The Full Potential Of Your Business."
   description: "
-I help brands maximize their customer lifetime value (CLV) with powerful retention strategies—turning one-time buyers into loyal, raving fans.  "
-  button: "GET YOUR RETENTION PLAYBOOK"
+    Creative concepting and visual design
+  "
+  button: "More Services"
   link: "/services/"
-  image: "assets/img/laptop-buyer.jpg"
+  image: "assets/img/hero-img.jpg"
 
 ### Hero Under [ hero-under ]
 hero_under:
@@ -109,8 +110,8 @@ testimonial_one:
 
 ### Call to Action One [ cta-one ]
 cta_one:
-  title: "WATCH: How We Helped Brands Generate $2M+ in Revenue Through Retention Marketing"
-  subtitle: "Learn how brands like True Citrus stopped losing customers and started scaling sustainably—using proven retention strategies, email flows, and subscription optimization.."
+  title: "Let’s Start On Your Case <span>Together</span>"
+  subtitle: "Pellentesque aliquet nibh necurna."
   video_poster: "assets/img/video.jpg"
   youtube_video_id: "1La4QzGeaaQ"
   form_title: "Kick Start Your Awesome Project Now!"
@@ -355,7 +356,7 @@ blog_carousel_two:
 
 ### Call to Action Two [ cta-two ]
 cta_two:
-  title: "WATCH: How We Helped Brands Generate $2M+ in Revenue Through Retention Marketing!"
+  title: "Let's Start an Awesome Project Now!"
   button: "Get Started"
   link: "/contact/"
 
@@ -1061,8 +1062,8 @@ contact_form_info:
 map:
   enable: true
   map_iframe: "
-  <iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387190.27988214366!2d-74.25986540376853!3d40.69767006922205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2s!4v1672222515624!5m2!1sen!2s' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>
-  "
+iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5542.216632405928!2d-82.4025230227312!3d34.85192897286632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885831ce1a2c3d2d%3A0x8f49a994f9f6d0a8!2s101%20N%20Main%20St%20%23302%2C%20Greenville%2C%20SC%2029601!5e1!3m2!1sen!2sus!4v1736969146824!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  "
+
 ### Offices [ offices ]
 offices:
   enable: false

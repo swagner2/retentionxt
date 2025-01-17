@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+  {% include header.html %}
+
+  {% assign sections = page.sections | split: "," %}
+  {% for section in sections %}
+    {% include new-sections/section-{{ section }}.html %}
+  {% endfor %}
+
+  {% include footer.html %}
+</body>
+</html>

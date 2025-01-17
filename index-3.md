@@ -7,3 +7,11 @@ layout: builder
 headerStyle: two
 sections: hero-slider-two,clients,why-choose-us,benefits,projects-carousel-two,services-two,testimonial-three,contact-form-map
 ---
+
+
+---
+# original idex page layout
+
+# layout: builder
+# sections: hero-one,hero-under,about-two,how-it-works,projects-carousel,testimonial-one,cta-one,blog-carousel
+---

@@ -104,13 +104,6 @@ cta_one:
   form_subtitle: "Get In Touch"
   form_subscription: "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue."
 
-### Call to Action Four [ cta-four ]
-cta_four:
-  title: "Retain More Customers <span>Without Spending More</span>"
-  subtitle: "Klaviyo + ReCharge Experts."
-  video_poster: "assets/img/video.jpg"
-  youtube_video_id: "-3b_UGc8YZM"
-
 ### Latest Blog Carousel [ blog-carousel ]
 blog_carousel:
   title: "News and Thoughts"
