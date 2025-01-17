@@ -54,7 +54,7 @@ main:
   # Works
   - title: "Free Tools"
     url: "/blog/"
-    parent: 0git 
+    parent: 0
     childs:
         # - title: "Blog Grid"
           # url: "/blog/"
@@ -68,7 +68,7 @@ main:
  # How we Help
   - title: "About"
     url: "/about/"
-    parent: 1
+    parent: 0
     childs:
        - title: "About"
           url: "/about/"
