@@ -22,8 +22,8 @@ main:
 
   # How we Help
   - title: "How We Help Brands Retain More Customers"
-    url: "/how/"
-    parent: 1
+    url: "/services/"
+    parent: 0
     childs:
         - title: "Services"
           url: "/services/"
@@ -52,9 +52,9 @@ main:
           # url: "/works/boarding-pass-wedding-invitation/"
 
   # Works
-  - title: "Resources"
+  - title: "Free Tools"
     url: "/blog/"
-    parent: 1
+    parent: 0git 
     childs:
         # - title: "Blog Grid"
           # url: "/blog/"
